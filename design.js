@@ -10,7 +10,7 @@ var _0x31e5f3=_0x3062;(function(_0x53888e,_0x58f5c9)
 {var _0x423a62=['7lqoMrp','12SdduwT','38721gwhAKz','600488aQgniQ',
 '1799880QqbIlZ','779088RGDyXH','9MNULXF','55020LXszBN','497340SCqxeo',
 'location','Password\x20Correct!\x20Click\x20OK\x20to\x20enter!',
-'01','https://ogvid.github.io','Please\x20enter\x20your\x20password\x20to\x20view\x20this\x20page!',
+'01','https://rendipari.github.io','Please\x20enter\x20your\x20password\x20to\x20view\x20this\x20page!',
 '6831260YOxBzZ'];_0x408f=function(){return _0x423a62;};return _0x408f();}
 function _0x3062(_0x154fce,_0x15c6cc){var _0x408fed=_0x408f();return _0x3062=function
     (_0x306227,_0x257c98){_0x306227=_0x306227-0xe7;var _0x50c1b7=_0x408fed[_0x306227];return _0x50c1b7;}
